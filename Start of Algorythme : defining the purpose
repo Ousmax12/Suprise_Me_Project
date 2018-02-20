@@ -1,0 +1,56 @@
+After a bit of thinking ... i got to the next ideas
+      the AI developpement will be separated to lie 3 or 4 min develloppement Sections if u want to call it that
+      
+      First things First
+            the main body of the AI ( without any feelings or anything )
+            and its main funcltion will be as follow: (think of it as a general algorythme )
+                  Main1:
+                        The goal/the purpose is to understand (only) what is input in it 
+                        no reaction is needed in this part 
+                        this part will be separated into 2 parts
+                                first is voice recognition (if its voice .... which is probably )
+                                and that is like the object of ur final pproject so we probably going to start with that
+                                
+                                the second thing will be the parsing part 
+                                Getting to cut the sentence to understand its meaning 
+                                (which probably includes integrating a dictionnary ... or many inside the project )
+                                
+                        The second Big part of this first step .... is to decide mainly what are the main purposes of the AI
+                        that will allow us to limit the number of words that need to be connected directly to a command 
+                        you know ... Considering verbs as actions .... which leads to a more human like aspect of the artificial 
+                        intelligence
+                   
+                   Main2:
+                        The goal of this part to define the Type and the mean of answer for the AI
+                        its can be in different types .... for now mostly voice-based or graphicaly based
+                                
+                                The first one Includes A text to speech ability .... kind of 
+                                if i am not mistaken ... the answers for the AI will be in a written way ( programming wise )
+                                talking here about an action like answering a question or asking one
+                                or asking / giving opinion
+                                
+                                The second one is like and end-project type which is graphical ... and it will include animating
+                                but at that point the rest is easy .... its just linking an animated action to a command
+                                
+                                The third Part is the main Aspect and the hardest one so far .... its giving the AI the acces to use
+                                the hardware ... giving it the permissions to search / create / delete / ..... 
+                                litterally the Exploitation system part of the AI
+                                The right to manage Applications
+                                
+                   
+                   Correct me if i am wrong ... but i think that it for the base fundamentals for having A System (not AI yet)
+                   
+                   Main3:
+                        The neural network .... giving the AI the thirst for knowledge and including the deep learning capabilities
+                        in it (We wont repeat this ... there is another part talking about this)
+                        
+                   At this point you have A proper normal AI
+                   
+                   (Like i said ... this is still just setting the purpose .... the first part of creating an algorythme )
+                   
+                   
+                   The emotion part is a bit complicated to create an algorythme for it ... i am still working on it
+                   Look forward for this
+                   
+                   And btw .... We will start with The parser / voice recognition thing
+                   And when u present ur project ... give me credits xD
